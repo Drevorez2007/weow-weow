@@ -1,3 +1,9 @@
 import '../scss/style.scss'
-
-console.log('Works!')
+import './swiper'
+import '../scss/service.scss'
+import '../scss/price.scss'
+import '../scss/feedback-call-blur.scss'
+import '../scss/footer.scss'
+import './feedback-call-blur'
+import './aside'
+import './read-more'
